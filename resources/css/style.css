@@ -1,1 +1,40 @@
 /* stylesheet for Broadway Design */
+body {
+  text-align: center;
+}
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: gray;
+}
+
+h2 {
+font-family: helvetica;
+font-size: 32px;
+font-weight: bold;
+color:gray;
+}
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color:gray;
+}
+
+.small-banner {
+  color:gray;
+}
+
+ul {
+list-style-type: none;
+font-family: helvetica;
+font-size: 18px;
+color: gray;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
